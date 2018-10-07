@@ -1,0 +1,11 @@
+@media all and (max-width:1000px) {
+    .education {
+        margin-left: 30px;
+    }
+}
+
+@media all and (max-width:816px) {
+    .information-block{
+        flex-wrap: wrap;
+    }
+}
