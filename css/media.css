@@ -5,7 +5,13 @@
 }
 
 @media all and (max-width:816px) {
-    .information-block{
+    .information-block {
         flex-wrap: wrap;
+    }
+}
+
+@media all and (max-width:360px) {
+    .dws-wrapper{
+        width: 300px;
     }
 }
